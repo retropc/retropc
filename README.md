@@ -1,1 +1,5 @@
-all non-forks are now on gitlab: https://gitlab.com/retropc/
+I have moved everything to GitLab
+
+https://gitlab.com/retropc/
+
+(except forks of other projects)
