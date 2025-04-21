@@ -1,5 +1,5 @@
-I have moved everything to GitLab
+I have moved everything to Codeberg
 
-https://gitlab.com/retropc/
+https://codeberg.org/retropc/
 
 (except forks of other projects)
